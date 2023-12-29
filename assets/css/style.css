@@ -8,7 +8,7 @@ body {
 
 
 .head {
-    background-image: url(/assets/images/photo2022-06-05_13-14-26\ 1.png);
+    background-image: url('/assets/images/photo2022-06-05_13-14-26\ 1.png');
 }
 
 .panel {
@@ -142,7 +142,7 @@ body {
 }
 
 .box_block1 {
-    background-image: url(/assets/images/bread-mart-bread-with-no-background-15588511.png);
+    background-image: url('/assets/images/bread-mart-bread-with-no-background-15588511.png');
     background-repeat: no-repeat;
     background-position: top 14px right 14px;
     width: 328px;
@@ -156,7 +156,7 @@ body {
 }
 
 .box_block2 {
-    background-image: url(/assets/images/pngegg\(3\).png), url(/assets/images/pngwin.png), url(/assets/images/klipart.png);
+    background-image: url('/assets/images/pngegg\(3\).png'), url('/assets/images/pngwin.png'), url('/assets/images/klipart.png');
     background-repeat: no-repeat;
     background-position: top 59px right -20px, top 17px right 71px, top -14px right -30px;
     width: 328px;
@@ -215,7 +215,7 @@ body {
 }
 
 .box_block3 {
-    background-image: url(/assets/images/pngwing2.png), url(/assets/images/pngwing3.png);
+    background-image: url('/assets/images/pngwing2.png'), url('/assets/images/pngwing3.png');
     background-repeat: no-repeat;
     width: 328px;
     height: 250px;
@@ -235,7 +235,7 @@ body {
 }
 
 .box_block4 {
-    background-image: url(/assets/images/pngegg\(5\)\ 1.png), url(/assets/images/pngegg\(4\)\ 1.png) ;
+    background-image: url('/assets/images/pngegg\(5\)\ 1.png'), url('/assets/images/pngegg\(4\)\ 1.png') ;
     background-repeat: no-repeat;
     width: 328px;
     height: 250px;
@@ -249,7 +249,7 @@ body {
 }
 
 .center {
-    background-image: url(/assets/images/backroun.png);
+    background-image: url('/assets/images/backroun.png');
 }
 
 .center_boxes{
@@ -291,7 +291,7 @@ body {
 }
 
 .bakery_block {
-    background-image: url(/assets/images/photo2022-06-23_21-45-36\ 1.png);
+    background-image: url('/assets/images/photo2022-06-23_21-45-36\ 1.png');
 }
 
 .bakery_text {
