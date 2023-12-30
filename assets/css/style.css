@@ -235,7 +235,7 @@ body {
 }
 
 .box_block4 {
-    background-image: url('/assets/images/pngegg\(5\)\ 1.png'), url('/assets/images/pngegg\(4\)\ 1.png') ;
+    background-image: url('/assets/images/pngegg\(5\)1.png'), url('/assets/images/pngegg\(4\)1.png') ;
     background-repeat: no-repeat;
     width: 328px;
     height: 250px;
@@ -249,7 +249,7 @@ body {
 }
 
 .center {
-    background-image: url('/assets/images/backroun.png');
+    background-image: url('/assets/images/backround.png');
 }
 
 .center_boxes{
